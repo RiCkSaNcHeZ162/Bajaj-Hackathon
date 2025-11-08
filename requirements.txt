@@ -1,0 +1,15 @@
+dotenv
+ipykernel
+langchain
+langchain_openai
+sentence-transformers
+langchain-community
+langchain-core
+bs4
+unstructured
+pdfminer.six
+pillow-heif
+unstructured[pdf]
+streamlit
+gradio
+cassio
